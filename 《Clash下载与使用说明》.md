@@ -77,4 +77,4 @@
 
 7. 点回代理，对应会出现可选的地址，可点击测速按钮，选择稳定快速的地址进入。
 
-    ![alt text](pic/image-8.png)
+    ![alt text](pic/image-10.png)
